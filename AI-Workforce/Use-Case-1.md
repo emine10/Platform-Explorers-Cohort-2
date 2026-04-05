@@ -1,4 +1,4 @@
-# Build a simple copilot agent
+# Build a simple agent with copilot chat
 
 ## Scenario:  
 Your IT team wants a lightweight helper that Exchange administrators can talk to when they need a quick reminder about how to:
